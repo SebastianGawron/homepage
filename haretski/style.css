@@ -1,0 +1,22 @@
+body{
+    background-color: #cccccc;
+   font-family: initial;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.body{
+    color: white;
+}
+footer{
+    font-family: inherit;
+    text-align: center;
+}

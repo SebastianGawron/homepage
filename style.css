@@ -1,0 +1,44 @@
+body{
+    background-color:#0000;
+    font-family: auto;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    font-family: auto;
+}
+p{
+    color: yellow;
+}
+h3{
+    color:  red;
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+footer{
+    text-align: center;
+    color: #ffffff;
+}
+section{
+    background-color: #000000;
+}
+.klasa-notatki{
+    color: blueviolet;
+}
+.sebo-strona{
+    color: crimson;
+    background: yellow;
+}
+#kim-kim{
+    background-color: deeppink;
+}
+
+header a{
+    color: rgb(233, 85, 17);
+}
